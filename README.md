@@ -75,7 +75,7 @@ math с его последующей обработкой по технолог
 ![Image](svg_res.png)
 
 ## Проект
-- Проект доступен по адресу https://madpenguinw.github.io/MathML-SVG/
+- Проект доступен по адресу https://madpenguinw.github.io/MathML-SVG/.
 
 ## Об авторе
 
