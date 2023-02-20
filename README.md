@@ -73,10 +73,10 @@ math с его последующей обработкой по технолог
 </root>
 ```
 
-<img src="./svg_res.png"  width="100" height="100">
+<img src="./svg_res.png"  width="200" height="200">
 
 ## Проект
-- Проект доступен по адресу https://madpenguinw.github.io/MathML-SVG/.
+- Проект доступен по адресу https://madpenguinw.github.io/MathML-SVG/
 
 ## Об авторе
 
